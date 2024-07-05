@@ -1,0 +1,152 @@
+[
+    {
+        "nombre": "Laura Hernandez",
+        "id_venta": 1,
+        "total_venta": 2180000
+    },
+    {
+        "nombre": "Miguel Sanchez",
+        "id_venta": 2,
+        "total_venta": 1630000
+    },
+    {
+        "nombre": "Carlos Lopez",
+        "id_venta": 3,
+        "total_venta": 3640000
+    },
+    {
+        "nombre": "Mar\u00c3\u00ada Garcia",
+        "id_venta": 4,
+        "total_venta": 4930000
+    },
+    {
+        "nombre": "Miguel Sanchez",
+        "id_venta": 5,
+        "total_venta": 3780000
+    },
+    {
+        "nombre": "Elena Fern\u00c3\u00a1ndez",
+        "id_venta": 6,
+        "total_venta": 4910000
+    },
+    {
+        "nombre": "Elena Fern\u00c3\u00a1ndez",
+        "id_venta": 7,
+        "total_venta": 3360000
+    },
+    {
+        "nombre": "Mar\u00c3\u00ada Garcia",
+        "id_venta": 8,
+        "total_venta": 3510000
+    },
+    {
+        "nombre": "Laura Hernandez",
+        "id_venta": 9,
+        "total_venta": 3650000
+    },
+    {
+        "nombre": "Francisco Diaz",
+        "id_venta": 10,
+        "total_venta": 3270000
+    },
+    {
+        "nombre": "Carlos Lopez",
+        "id_venta": 1,
+        "total_venta": 3790000
+    },
+    {
+        "nombre": "Ana Martinez",
+        "id_venta": 2,
+        "total_venta": 4500000
+    },
+    {
+        "nombre": "Francisco Diaz",
+        "id_venta": 3,
+        "total_venta": 3370000
+    },
+    {
+        "nombre": "Francisco Diaz",
+        "id_venta": 4,
+        "total_venta": 4220000
+    },
+    {
+        "nombre": "Pedro Rodriguez",
+        "id_venta": 5,
+        "total_venta": 3480000
+    },
+    {
+        "nombre": "Mar\u00c3\u00ada Garcia",
+        "id_venta": 6,
+        "total_venta": 2980000
+    },
+    {
+        "nombre": "Laura Hernandez",
+        "id_venta": 7,
+        "total_venta": 3110000
+    },
+    {
+        "nombre": "Elena Fern\u00c3\u00a1ndez",
+        "id_venta": 8,
+        "total_venta": 3330000
+    },
+    {
+        "nombre": "Mar\u00c3\u00ada Garcia",
+        "id_venta": 9,
+        "total_venta": 2080000
+    },
+    {
+        "nombre": "Juan Perez",
+        "id_venta": 10,
+        "total_venta": 2310000
+    },
+    {
+        "nombre": "Mar\u00c3\u00ada Garcia",
+        "id_venta": 1,
+        "total_venta": 3240000
+    },
+    {
+        "nombre": "Isabel Gomez",
+        "id_venta": 2,
+        "total_venta": 2550000
+    },
+    {
+        "nombre": "Pedro Rodriguez",
+        "id_venta": 3,
+        "total_venta": 2080000
+    },
+    {
+        "nombre": "Isabel Gomez",
+        "id_venta": 4,
+        "total_venta": 4750000
+    },
+    {
+        "nombre": "Laura Hernandez",
+        "id_venta": 5,
+        "total_venta": 4560000
+    },
+    {
+        "nombre": "Elena Fern\u00c3\u00a1ndez",
+        "id_venta": 6,
+        "total_venta": 2870000
+    },
+    {
+        "nombre": "Juan Perez",
+        "id_venta": 7,
+        "total_venta": 2570000
+    },
+    {
+        "nombre": "Ana Martinez",
+        "id_venta": 8,
+        "total_venta": 4360000
+    },
+    {
+        "nombre": "Laura Hernandez",
+        "id_venta": 9,
+        "total_venta": 4220000
+    },
+    {
+        "nombre": "Miguel Sanchez",
+        "id_venta": 10,
+        "total_venta": 2830000
+    }
+]
